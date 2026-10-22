@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Screenshot Input",
+    "description": "Adds a screenshot button that starts a system snip (the Win+Shift+S overlay) and adds the selected region to the draft as an image attachment."
+  }
+}
